@@ -1,0 +1,4 @@
+You: while i was walking down the street i saw an airplane can i ask who was the creator behind that and what is one word to describe on how do these things keep the consistency and flying try and answering this in one sentence only
+
+Bot: The airplane was invented by the Wright Brothers, and the word you're searching for is 'aerodynamics,' which describes the principles that keep airplanes flying by making them move smoothly through the air.
+
